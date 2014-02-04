@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "todo"
+        }, 
+        "todo": {
+            "applicationId": "xCImDY8HESUkLvfyuNE9hs80EKPlvySa0k6AwZoR", 
+            "masterKey": "HAhXaFECYixpFYd3DzHIsSrMtSz2C7ZGIC3TDv2N"
+        }
+    }
+}
